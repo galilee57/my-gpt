@@ -1,0 +1,3 @@
+bonjour je suis un petit modele de langage.
+je vais apprendre a predire le caractere suivant.
+un modele de langage apprend des regularites dans le texte.
