@@ -4,9 +4,9 @@ from tokenizer import CharTokenizer
 from dataset import get_batch
 from model import BigramLanguageModel
 
-# --------------------
+# --------------------------------
 # Hyperparameters
-# --------------------
+# --------------------------------
 
 batch_size = 32
 block_size = 8
@@ -14,9 +14,9 @@ block_size = 8
 learning_rate = 1e-3
 steps = 5000
 
-# --------------------
+# --------------------------------
 # Load and preprocess data
-# --------------------
+# --------------------------------
 
 with open("data/corpus.txt", "r", encoding="utf-8") as f:
     text = f.read()
@@ -28,16 +28,16 @@ data = torch.tensor(
     dtype=torch.long
 )
 
-# --------------------
+# --------------------------------
 # Initialize model and optimizer
-# --------------------
+# --------------------------------
 
 model = BigramLanguageModel(vocab_size=tokenizer.vocab_size)
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 
-# --------------------
+# --------------------------------
 # Training loop
-# --------------------
+# --------------------------------
 
 for step in range(steps):
     # Get a batch of data
