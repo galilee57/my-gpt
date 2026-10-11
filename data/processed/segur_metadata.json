@@ -1,0 +1,25 @@
+{
+  "title": "Les petites filles modèles",
+  "author": "Comtesse de Ségur",
+  "prepared_on": "2026-10-11",
+  "source_url": "https://www.gutenberg.org/cache/epub/15059/pg15059.txt",
+  "source_page": "https://www.gutenberg.org/ebooks/15059",
+  "source_sha256": "601a8af732b0441d3e114a1aa7b7489de822db1b7b745ae87891e6a5db2ba706",
+  "normalization": "Narrative from chapter I; chapter headings and editorial matter removed; lowercase; accents removed; oe/ae ligatures expanded; ASCII quotes/apostrophes/dashes; italic underscores removed; hard line wraps joined; blank lines between paragraphs; stop at first paragraph break after target.",
+  "corpora": {
+    "segur10k.txt": {
+      "target_characters": 10000,
+      "characters": 10009,
+      "words": 1638,
+      "vocabulary_size": 37,
+      "sha256": "b0bb257bca71764283868c296262daf389cf900fe1644a1b652eec73f95a7a32"
+    },
+    "segur100k.txt": {
+      "target_characters": 100000,
+      "characters": 100031,
+      "words": 16277,
+      "vocabulary_size": 42,
+      "sha256": "e564ca8abae1fe72459fa849965748cd4d5616a6b3a988c520e220ad686455d2"
+    }
+  }
+}

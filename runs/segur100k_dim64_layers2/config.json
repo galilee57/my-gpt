@@ -1,0 +1,77 @@
+{
+  "name": "segur100k_dim64_layers2",
+  "corpus": "/Users/fix.emmanuelyahoo.fr/Library/Mobile Documents/com~apple~CloudDocs/AA - Documents Man/AA1 - PROJECTS/Codex/02_Projects/my-gpt/data/processed/segur100k.txt",
+  "output_dir": "/Users/fix.emmanuelyahoo.fr/Library/Mobile Documents/com~apple~CloudDocs/AA - Documents Man/AA1 - PROJECTS/Codex/02_Projects/my-gpt",
+  "batch_size": 32,
+  "block_size": 64,
+  "embedding_dim": 64,
+  "num_heads": 4,
+  "num_layers": 2,
+  "max_steps": 5000,
+  "eval_interval": 250,
+  "eval_iters": 100,
+  "generate_interval": 500,
+  "generate_tokens": 200,
+  "learning_rate": 0.0003,
+  "seed": 42,
+  "created_at_utc": "2026-10-11T08:21:07.478149+00:00",
+  "device": "mps",
+  "torch_version": "2.14.0",
+  "corpus_sha256": "e564ca8abae1fe72459fa849965748cd4d5616a6b3a988c520e220ad686455d2",
+  "corpus_characters": 100031,
+  "train_tokens": 90027,
+  "val_tokens": 10004,
+  "model_config": {
+    "vocab_size": 42,
+    "embedding_dim": 64,
+    "num_heads": 4,
+    "num_layers": 2,
+    "block_size": 64
+  },
+  "parameter_count": 109098,
+  "model_metrics": {
+    "total_parameters": 109098,
+    "trainable_parameters": 109098,
+    "frozen_parameters": 0,
+    "parameters_by_component": {
+      "token_embedding": 2688,
+      "position_embedding": 4096,
+      "W_vocab": 2688,
+      "b_vocab": 42,
+      "blocks": 99456,
+      "final_norm": 128
+    },
+    "parameter_dtypes": [
+      "torch.float32"
+    ],
+    "parameter_bytes": 436392,
+    "buffer_bytes": 131072
+  },
+  "training_budget": {
+    "tokens_per_update": 2048,
+    "planned_training_tokens": 10240000,
+    "planned_equivalent_corpus_passes": 113.74365468137337,
+    "evaluation_tokens_per_split": 204800,
+    "parameters_per_train_token": 1.2118364490652804,
+    "uniform_baseline_loss_nats": 3.7376696182833684
+  },
+  "checkpoint_path": "/Users/fix.emmanuelyahoo.fr/Library/Mobile Documents/com~apple~CloudDocs/AA - Documents Man/AA1 - PROJECTS/Codex/02_Projects/my-gpt/runs/segur100k_dim64_layers2/best_model.pt",
+  "training_metrics": {
+    "completed_updates": 5000,
+    "training_tokens_seen": 10240000,
+    "equivalent_corpus_passes": 113.74365468137337,
+    "elapsed_seconds_at_evaluation": 134.8395780830001,
+    "end_to_end_training_tokens_per_second": 75942.09464002326,
+    "train_loss": 1.0184857761859893,
+    "val_loss": 1.5258176016807556,
+    "val_minus_train_loss": 0.5073318254947663,
+    "val_bits_per_character": 2.201289487245918,
+    "val_perplexity": 4.598902102694502,
+    "best_val_loss": 1.478198240995407,
+    "best_step": 2500
+  },
+  "paths_before_reorganization_2026_10_11": {
+    "corpus": "/Users/fix.emmanuelyahoo.fr/Library/Mobile Documents/com~apple~CloudDocs/AA - Documents Man/AA1 - PROJECTS/Codex/02_Projects/my-gpt/data/segur100k.txt",
+    "checkpoint_path": "/Users/fix.emmanuelyahoo.fr/Library/Mobile Documents/com~apple~CloudDocs/AA - Documents Man/AA1 - PROJECTS/Codex/02_Projects/my-gpt/checkpoints/best_segur100k_dim64_layers2.pt"
+  }
+}

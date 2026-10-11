@@ -1,0 +1,31 @@
+{
+  "prepared_on": "2026-10-11",
+  "type": "synthetic_controlled_templates",
+  "source": "Authored knowledge records and fictional situations in scripts/prepare_generaliste.py; arithmetic answers calculated in Python.",
+  "seed": 20261011,
+  "target_characters": 1000000,
+  "characters": 1000264,
+  "words_whitespace": 159674,
+  "vocabulary_size": 50,
+  "documents": 1525,
+  "document_counts_by_type": {
+    "explication": 484,
+    "situation": 743,
+    "calcul": 298
+  },
+  "authored_explanation_topics": 50,
+  "authored_scenario_families": 50,
+  "exact_duplicate_documents": 0,
+  "sentence_segments": 12689,
+  "unique_sentence_segments": 4679,
+  "repeated_sentence_occurrences": 8010,
+  "sha256": "1aac5d1fff0235da76ea7c6f07be27a5c2e25afded9113694eb8c9864b7f815c",
+  "normalization": "lowercase ASCII, no accents, paragraph-separated documents",
+  "limitations": [
+    "Repeated sentence structures and reused authored facts; this is not one million independently authored characters.",
+    "Near-duplicate template variants may occur across the automatic 90/10 train-validation split.",
+    "Arithmetic examples teach text patterns; they do not guarantee arithmetic competence.",
+    "Not instruction-tuned chat data; no current news, professional advice or comprehensive factual coverage."
+  ],
+  "generator_sha256": "7974c3ab978f15e41f5d7986f27c2554772390dd23bf0c776ac96096fcb0c56f"
+}

@@ -1,0 +1,77 @@
+{
+  "name": "gpt10k",
+  "corpus": "/Users/fix.emmanuelyahoo.fr/Library/Mobile Documents/com~apple~CloudDocs/AA - Documents Man/AA1 - PROJECTS/Codex/02_Projects/my-gpt/data/processed/corpus10k.txt",
+  "output_dir": "/Users/fix.emmanuelyahoo.fr/Library/Mobile Documents/com~apple~CloudDocs/AA - Documents Man/AA1 - PROJECTS/Codex/02_Projects/my-gpt",
+  "batch_size": 32,
+  "block_size": 64,
+  "embedding_dim": 128,
+  "num_heads": 4,
+  "num_layers": 4,
+  "max_steps": 5000,
+  "eval_interval": 250,
+  "eval_iters": 100,
+  "generate_interval": 500,
+  "generate_tokens": 200,
+  "learning_rate": 0.0003,
+  "seed": 42,
+  "created_at_utc": "2026-10-11T07:55:35.317049+00:00",
+  "device": "mps",
+  "torch_version": "2.14.0",
+  "corpus_sha256": "e4cfac3aa0c5c97401c61fbbe62d17caefdecbd895cf9ad0a79abea2c0d21cb4",
+  "corpus_characters": 10622,
+  "train_tokens": 9559,
+  "val_tokens": 1063,
+  "model_config": {
+    "vocab_size": 33,
+    "embedding_dim": 128,
+    "num_heads": 4,
+    "num_layers": 4,
+    "block_size": 64
+  },
+  "parameter_count": 807969,
+  "model_metrics": {
+    "total_parameters": 807969,
+    "trainable_parameters": 807969,
+    "frozen_parameters": 0,
+    "parameters_by_component": {
+      "token_embedding": 4224,
+      "position_embedding": 8192,
+      "W_vocab": 4224,
+      "b_vocab": 33,
+      "blocks": 791040,
+      "final_norm": 256
+    },
+    "parameter_dtypes": [
+      "torch.float32"
+    ],
+    "parameter_bytes": 3231876,
+    "buffer_bytes": 262144
+  },
+  "training_budget": {
+    "tokens_per_update": 2048,
+    "planned_training_tokens": 10240000,
+    "planned_equivalent_corpus_passes": 1071.2417616905534,
+    "evaluation_tokens_per_split": 204800,
+    "parameters_per_train_token": 84.52442724134323,
+    "uniform_baseline_loss_nats": 3.4965075614664802
+  },
+  "checkpoint_path": "/Users/fix.emmanuelyahoo.fr/Library/Mobile Documents/com~apple~CloudDocs/AA - Documents Man/AA1 - PROJECTS/Codex/02_Projects/my-gpt/runs/gpt10k/best_model.pt",
+  "training_metrics": {
+    "completed_updates": 5000,
+    "training_tokens_seen": 10240000,
+    "equivalent_corpus_passes": 1071.2417616905534,
+    "elapsed_seconds_at_evaluation": 225.5496536249998,
+    "end_to_end_training_tokens_per_second": 45400.2027288638,
+    "train_loss": 0.12984647400677204,
+    "val_loss": 4.065352256298065,
+    "val_minus_train_loss": 3.935505782291293,
+    "val_bits_per_character": 5.865063539627977,
+    "val_perplexity": 58.28543631884575,
+    "best_val_loss": 2.1693242406845092,
+    "best_step": 250
+  },
+  "paths_before_reorganization_2026_10_11": {
+    "corpus": "/Users/fix.emmanuelyahoo.fr/Library/Mobile Documents/com~apple~CloudDocs/AA - Documents Man/AA1 - PROJECTS/Codex/02_Projects/my-gpt/data/corpus10k.txt",
+    "checkpoint_path": "/Users/fix.emmanuelyahoo.fr/Library/Mobile Documents/com~apple~CloudDocs/AA - Documents Man/AA1 - PROJECTS/Codex/02_Projects/my-gpt/checkpoints/best_gpt10k.pt"
+  }
+}

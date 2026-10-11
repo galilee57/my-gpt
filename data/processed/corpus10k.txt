@@ -1,0 +1,234 @@
+bonjour je suis un petit modele de langage.
+je vais apprendre a predire le caractere suivant.
+un modele de langage apprend des regularites dans le texte.
+
+le matin, le soleil entre par la fenetre de la cuisine.
+lea ouvre les volets et regarde le jardin.
+elle prepare du pain, du beurre et une tasse de lait.
+son frere pose deux bols sur la table.
+ils prennent leur petit dejeuner avant de partir.
+apres le repas, chacun range son bol dans la cuisine.
+la maison est calme quand les enfants sont partis.
+le soir, toute la famille se retrouve autour de la table.
+chacun raconte un petit moment de sa journee.
+avant de dormir, lea lit quelques pages de son livre.
+
+le chat dort sur une chaise pres de la porte.
+quand il entend un bruit, il leve la tete.
+il descend de la chaise et traverse le couloir.
+dans le jardin, un oiseau cherche des graines.
+le chat observe cet oiseau sans faire de bruit.
+l'oiseau s'envole et se pose sur une branche.
+le chien rapporte sa balle au pied de son maitre.
+son maitre lance la balle et le chien court la chercher.
+un petit lapin mange une feuille de salade.
+les animaux ont besoin d'eau, de nourriture et de repos.
+
+au printemps, les arbres portent de petites feuilles vertes.
+en ete, les journees sont longues et souvent chaudes.
+en automne, les feuilles tombent sur les chemins.
+en hiver, le froid nous donne envie de rentrer au chaud.
+aujourd'hui, le ciel est gris et le vent souffle.
+la pluie commence juste avant notre promenade.
+nous prenons nos manteaux et un grand parapluie.
+apres la pluie, des gouttes brillent sur les feuilles.
+un rayon de soleil eclaire le bout du jardin.
+le temps change, mais nous pouvons encore marcher dehors.
+
+paul va au marche avec un panier vide.
+il achete des pommes, des poires et des carottes.
+la vendeuse lui demande combien de pommes il veut.
+paul choisit quatre pommes et deux belles poires.
+il remercie la vendeuse et range les fruits dans son panier.
+a la maison, il lave les carottes avant de les couper.
+il fait chauffer un peu d'eau dans une casserole.
+pendant que la soupe cuit, il prepare la table.
+la soupe est chaude, alors il attend avant de la manger.
+il garde une portion pour le repas du lendemain.
+
+pour faire une salade, commence par laver les legumes.
+coupe les tomates en petits morceaux.
+ajoute quelques feuilles de salade et un peu d'huile.
+melange doucement avec une grande cuillere.
+goute la salade avant d'ajouter du sel.
+si le pain est trop dur, tu peux le mettre dans la soupe.
+si la tasse est pleine, verse le lait doucement.
+ne pose pas le livre trop pres du verre d'eau.
+apres avoir cuisine, nettoie la table et range les ustensiles.
+une cuisine bien rangee permet de retrouver facilement ses affaires.
+
+ou est mon livre ? ton livre est sur la table.
+ou sont mes chaussures ? tes chaussures sont pres de la porte.
+qui frappe a la porte ? c'est notre voisine.
+que veux-tu boire ? je voudrais un verre d'eau.
+as-tu faim ? oui, je voudrais un morceau de pain.
+as-tu froid ? non, mon manteau est assez chaud.
+veux-tu venir avec nous ? oui, je viens dans un instant.
+pourquoi fermes-tu la fenetre ? parce que le vent est froid.
+quand allons-nous partir ? nous allons partir apres le repas.
+comment vas-tu rentrer ? je vais prendre le bus.
+
+bonjour, comment vas-tu ce matin ?
+je vais bien, merci. et toi ?
+je suis un peu fatigue, car je me suis couche tard.
+tu peux te reposer avant de commencer ton travail.
+merci pour ton conseil, je vais prendre une petite pause.
+bonjour madame, je cherche la gare.
+la gare se trouve au bout de cette rue.
+est-ce loin d'ici ?
+non, il faut marcher pendant cinq minutes.
+merci beaucoup. bonne journee !
+
+la petite ecole se trouve pres de la place du village.
+les eleves entrent dans la classe et posent leurs sacs.
+la maitresse ecrit une phrase au tableau.
+les enfants lisent la phrase puis la recopient.
+un eleve leve la main pour poser une question.
+la maitresse explique le mot avec un exemple simple.
+pendant la pause, les enfants jouent dans la cour.
+apres la pause, ils ouvrent leur cahier de calcul.
+chacun travaille a son rythme et peut demander de l'aide.
+a la fin de la journee, les eleves rangent leurs affaires.
+
+j'apprends un nouveau mot chaque jour.
+tu relis la phrase pour mieux la comprendre.
+il cherche une reponse dans son livre.
+elle explique son idee avec des mots simples.
+nous comparons nos reponses apres l'exercice.
+vous pouvez poser une question si vous ne comprenez pas.
+ils travaillent ensemble sur un petit projet.
+elles corrigent les erreurs dans leur texte.
+je ne connais pas encore la reponse.
+nous allons essayer une autre methode.
+
+un livre contient des pages et des phrases.
+une phrase contient des mots.
+un mot peut contenir plusieurs lettres.
+la lettre suivante depend souvent des lettres qui la precedent.
+le mot chat commence par la lettre c.
+le mot maison commence par la lettre m.
+dans une question, on cherche une information.
+dans une reponse, on apporte une information.
+un point termine souvent une phrase.
+une virgule peut separer deux parties d'une phrase.
+
+sur le bureau, il y a un cahier bleu et un crayon rouge.
+sous le bureau, il y a une petite boite vide.
+a gauche de la fenetre, une lampe eclaire le mur.
+a droite de la porte, un manteau pend a un crochet.
+le sac de lea est plus grand que celui de paul.
+la tasse blanche est plus petite que le bol bleu.
+ce chemin est court, mais il monte beaucoup.
+l'autre chemin est plus long et plus facile.
+la boite est vide avant que nous y rangions les crayons.
+la boite est pleine quand tous les crayons sont dedans.
+
+hier, nous avons visite un petit village.
+aujourd'hui, nous restons a la maison.
+demain, nous irons marcher au bord de la riviere.
+ce matin, j'ai cherche mes cles dans mon sac.
+maintenant, mes cles sont dans ma poche.
+ce soir, je les poserai pres de la porte.
+avant de partir, nous verifions que les fenetres sont fermees.
+pendant le trajet, nous regardons le paysage.
+apres notre arrivee, nous appelons nos amis.
+quand la nuit tombe, les lumieres de la ville s'allument.
+
+lina veut construire une petite cabane dans le jardin.
+elle dessine d'abord son idee sur une feuille.
+son pere regarde le dessin et lui propose de commencer par le sol.
+ils choisissent des planches et mesurent leur longueur.
+une planche est trop courte pour le cote de la cabane.
+lina cherche une autre planche dans le garage.
+ils travaillent lentement pour bien assembler les morceaux.
+quand la cabane est prete, lina y apporte un coussin.
+elle s'assoit et ouvre son livre prefere.
+le soir, elle raconte a sa mere comment ils ont construit la cabane.
+
+noe trouve une petite enveloppe sur le chemin.
+il regarde autour de lui, mais personne ne semble la chercher.
+sur l'enveloppe, il lit le nom de sa voisine.
+il va chez elle et sonne a la porte.
+la voisine ouvre et reconnait aussitot son courrier.
+elle avait perdu cette enveloppe en revenant du marche.
+elle remercie noe pour son aide.
+noe sourit et reprend le chemin de sa maison.
+il est content d'avoir retrouve la personne qui cherchait la lettre.
+parfois, un petit geste rend la journee plus facile.
+
+sara plante une graine dans un pot rempli de terre.
+elle pose le pot pres de la fenetre.
+chaque matin, elle regarde si quelque chose a pousse.
+pendant plusieurs jours, la terre semble ne pas changer.
+puis une petite pousse verte apparait.
+sara ajoute un peu d'eau quand la terre devient seche.
+la plante grandit et porte de nouvelles feuilles.
+sara tourne parfois le pot pour que la plante recoive la lumiere.
+elle dessine la plante dans son cahier chaque semaine.
+avec le temps, ses dessins montrent combien la plante a grandi.
+
+le bus arrive a l'arret pres de la mairie.
+les voyageurs attendent que les portes s'ouvrent.
+une femme monte avec un sac de courses.
+un jeune homme lui laisse une place libre.
+le conducteur attend avant de fermer les portes.
+a travers la vitre, on voit les boutiques de la rue.
+au prochain arret, paul descend du bus.
+il traverse la place et rejoint son ami devant la gare.
+ils regardent le panneau pour trouver leur train.
+leur voyage commence dans quelques minutes.
+
+je prefere marcher quand il fait beau.
+tu preferes lire quand il pleut.
+il aime dessiner des maisons et des arbres.
+elle aime chanter pendant qu'elle cuisine.
+nous aimons partager un repas avec nos amis.
+vous aimez decouvrir de nouveaux endroits.
+ils aiment jouer au ballon apres l'ecole.
+elles aiment raconter des histoires avant de dormir.
+on peut avoir des gouts differents et passer du temps ensemble.
+pour choisir une activite, nous ecoutons les idees de chacun.
+
+si tu as soif, prends un verre d'eau.
+si tu ne trouves pas ton cahier, regarde dans ton sac.
+si la porte est fermee, frappe avant d'entrer.
+si le chemin est glissant, marche doucement.
+si tu fais une erreur, tu peux recommencer.
+si nous partons tot, nous aurons le temps de marcher.
+si la pluie continue, nous jouerons a la maison.
+si le soleil revient, nous irons dans le jardin.
+si vous avez fini, vous pouvez ranger vos affaires.
+si personne ne connait la reponse, cherchons ensemble.
+
+je pose une pomme sur la table.
+je pose une poire a cote de la pomme.
+il y a maintenant deux fruits sur la table.
+je prends la pomme et laisse la poire.
+il reste un fruit sur la table.
+paul a deux crayons et lea lui donne un crayon.
+paul a maintenant trois crayons.
+lea coupe une feuille en deux morceaux.
+elle donne un morceau a paul et garde l'autre.
+ils ont chacun un morceau de la meme feuille.
+
+un ordinateur peut executer les instructions d'un programme.
+un programme simple peut lire un texte dans un fichier.
+le fichier contient les phrases que nous voulons utiliser.
+le tokenizer transforme les caracteres du texte en nombres.
+le modele utilise ces nombres pendant son apprentissage.
+pour chaque exemple, il essaie de predire le caractere suivant.
+la prediction est comparee au caractere attendu.
+l'entrainement ajuste les parametres pour reduire les erreurs.
+un modele bigramme utilise seulement le caractere courant.
+un modele avec attention peut utiliser plusieurs caracteres du contexte.
+
+un texte clair aide le lecteur a suivre une idee.
+un exemple concret aide a comprendre une explication.
+une histoire relie des personnages, des actions et des lieux.
+le debut presente souvent une situation.
+la suite raconte ce qui arrive aux personnages.
+la fin peut montrer comment leur situation a change.
+quand nous relisons un texte, nous pouvons corriger les erreurs.
+nous pouvons aussi remplacer une phrase difficile par une phrase simple.
+pour apprendre, il est utile de voir plusieurs exemples differents.
+pour verifier un apprentissage, il est utile de garder des exemples nouveaux.

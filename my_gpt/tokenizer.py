@@ -1,9 +1,17 @@
+from pathlib import Path
 from typing import List
 import torch
 
 class CharTokenizer:
-    def __init__(self, text: str):
-        self.chars = sorted(list(set(text)))
+    def __init__(self, text: str, charset: str = None):
+
+        # If charset is provided, use it; otherwise, derive charset from the text
+        if charset is None:
+            self.chars = sorted(list(set(text)))
+        elif text is not None:
+            self.chars = sorted(list(set(charset)))
+        else:
+            raise ValueError("Either text or charset must be provided.")
 
         self.vocab_size = len(self.chars)
 
@@ -14,14 +22,22 @@ class CharTokenizer:
         self.itos = {i: ch for i, ch in enumerate(self.chars)}
 
     def encode(self, text: str) -> List[int]:
+
+        unknown = set(text) - set(self.stoi)
+
+        if unknown:
+            raise ValueError(f"Unknown characters found in text: {unknown}")
+
         return [self.stoi[ch] for ch in text]
 
     def decode(self, tokens: List[int]) -> str:
+
         return "".join([self.itos[token] for token in tokens])
 
 if __name__ == "__main__":
 
-    with open("data/corpus.txt", "r", encoding="utf-8") as f:
+    corpus_path = Path(__file__).resolve().parents[1] / "data" / "processed" / "corpus10k.txt"
+    with open(corpus_path, "r", encoding="utf-8") as f:
         text = f.read()
 
     tokenizer = CharTokenizer(text)
